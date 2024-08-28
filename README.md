@@ -34,7 +34,7 @@ I’m currently working on my Portfolio Website. 😁
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010">
 </br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010">
-//<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010">//
+<!-- <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010"> -->
 <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010">
 <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010">
 </br>

@@ -34,7 +34,7 @@ I’m currently working on my Portfolio Website. 😁
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010">
 </br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010">
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010">
+//<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010">//
 <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010">
 <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010">
 </br>
@@ -55,7 +55,7 @@ I’m currently working on my Portfolio Website. 😁
 <a href="mailto:andresromerodoncel@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Gmail"/></a>
 <a href="mailto:c.andresromero@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=101010" alt="Outlook"/></a>
 </br>
-<a  href="https://wa.link/18qch5" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010" alt="WhatsApp"/></a>
+<a  href="https://wa.link/zc6lmj" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010" alt="WhatsApp"/></a>
 <a  href="https://t.me/Ca_Romero" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010" alt="Telegram"/></a>
 </br>
 

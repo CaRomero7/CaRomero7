@@ -8,9 +8,9 @@
 
 <hr>
 <pre>
-Versatile professional, with solid management, analysis and leadership skills; collaborative and ethical in projects.
-
-Researcher and innovator in technological development processes, automation and optimization of models to make predictions and efficient use of information. Software developer with proficiency in design, diverse platforms, languages and integrated systems.
+Engineer with experience in project management, analysis, and team leadership.
+	
+Well versed in various technologies and have great knowledge of emerging trends in IT. Committed to continuous learning to offer cutting-edge solutions.
 
 I’m currently working on my Portfolio Website. 😁
 

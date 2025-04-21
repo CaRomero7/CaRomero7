@@ -9,7 +9,7 @@
 <hr>
 <pre>
 Engineer with experience in project management, analysis, and team leadership.
-	
+
 Well versed in various technologies and have great knowledge of emerging trends in IT. Committed to continuous learning to offer cutting-edge solutions.
 
 I’m currently working on my Portfolio Website. 😁
@@ -20,7 +20,6 @@ I’m currently working on my Portfolio Website. 😁
 🔭 I work in potentiating my development skills.
 🌟 Main languages: Python, JavaScript
 🚩 Interested in developing applications in different areas.
-💖 In a complicated relationship with software development.
 🎵 I love classic Rock, electronica and Rancheras.
 </pre>
 <hr>
@@ -31,7 +30,7 @@ I’m currently working on my Portfolio Website. 😁
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010">
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010">
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010">
+<!--<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010"> -->
 </br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010">
 <!-- <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010"> -->

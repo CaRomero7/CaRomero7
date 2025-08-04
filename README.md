@@ -8,9 +8,10 @@
 
 <hr>
 <pre>
-Engineer with experience in project management, analysis, and team leadership.
-
-Well versed in various technologies and have great knowledge of emerging trends in IT. Committed to continuous learning to offer cutting-edge solutions.
+Results-driven Mechatronics Engineer and Software Developer with solid experience in project management, network engineering, and software implementation.
+	
+Proven track record of leading technical teams, deploying customized software solutions, and optimizing network infrastructure. 
+Enthusiastic about emerging technologies, continuous learning, and delivering innovative solutions that create real value for clients.
 
 I’m currently working on my Portfolio Website. 😁
 
